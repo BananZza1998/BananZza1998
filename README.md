@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Profile update in progress...
 <!--
 **BananZza1998/BananZza1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
